@@ -1,7 +1,7 @@
-I have other programs for MakeBlock. I have included links to my other programs. 
+ I have other programs for MakeBlock. I have included links to my other programs. 
 Take a look at it. If you want to know more about makeblock and mbot.
 
-1. Move your mbot around
+1. Move your mbot around (https://github.com/Mkans/Mblock-Move-your-mbot)
 2. Make a square
 3. Control lights
 4. Line follower
